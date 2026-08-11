@@ -78,14 +78,6 @@ I enjoy turning real-world problems into reliable software — from CRMs and inv
 
 ---
 
-## 📅 GitHub Contributions
-
-<p align="center">
-  <a href="https://github.com/mdkaifnasir">
-    <img src="https://ghchart.rshah.org/0e75b6/mdkaifnasir" alt="Md. Kaif Nasir GitHub Contribution Calendar">
-  </a>
-</p>
-
 ---
 
 ## 📌 Currently Working On
